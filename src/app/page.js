@@ -43,7 +43,7 @@ export default function Home() {
       <OurSponsors />
       <Infitescroll />
 
-      <MainCountup />
+      {/*<MainCountup /> */}
       <Counts />
       <AnimateCompo />
 

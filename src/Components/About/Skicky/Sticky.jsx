@@ -121,7 +121,7 @@ const Section2 = ({ scrollYProgress }) => {
                     {/* COLUMN-2 */}
                     <div>
                         <h3 className="text-4xl lg:text-5xl pt-4 font-semibold sm:leading-tight mt-5 text-center lg:text-start">Why we best?</h3>
-                        <h4 className="text-lg pt-4 font-normal sm:leading-tight text-center text-beach lg:text-start">Don't waste time on manual tasks. Let automation do it for you. Simplify workflows, reduce errors, and save time.</h4>
+                        <h4 className="text-lg pt-4 font-normal sm:leading-tight text-center text-beach lg:text-start">Dont waste time on manual tasks. Let automation do it for you. Simplify workflows, reduce errors, and save time.</h4>
 
                         <div className="mt-10">
                             {whydata.map((item, i) => (
