@@ -37,7 +37,7 @@ export default function Home() {
       {/* <SpotlightPreview/> */}
 
 
-
+      <Herotextthambi />
       {/* <Herotext /> */}
       <Macbook />
       <OurSponsors />
