@@ -25,6 +25,7 @@ import WhyChooseUs from "@/Components/About/Choose Us/WhyChooseUs";
 import Whyusz from "@/Components/AnimateCompo/Whyusz";
 import Sticky from "@/Components/About/Skicky/Sticky";
 import { Herotextthambi } from "@/Components/Home/Webhero/Herotextthambi";
+import HomeBlog from "@/Components/Extra/HomeBlog";
 
 
 
@@ -38,6 +39,7 @@ export default function Home() {
 
 
       <Herotextthambi />
+      <HomeBlog />
       {/* <Herotext /> */}
       <Macbook />
       <OurSponsors />
