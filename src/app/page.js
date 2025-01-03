@@ -26,6 +26,7 @@ import Whyusz from "@/Components/AnimateCompo/Whyusz";
 import Sticky from "@/Components/About/Skicky/Sticky";
 import { Herotextthambi } from "@/Components/Home/Webhero/Herotextthambi";
 import HomeBlog from "@/Components/Extra/HomeBlog";
+import Testimonial from "@/Components/Extra/Testmonialcomp/Testmonial";
 
 
 
@@ -39,6 +40,7 @@ export default function Home() {
 
 
       <Herotextthambi />
+      <Testimonial/>
       <HomeBlog />
       {/* <Herotext /> */}
       <Macbook />
@@ -55,7 +57,6 @@ export default function Home() {
       <AppleCardsCarouselDemo />
       <ServiceX />
       {/* <Extray/> */}
-      <Testimonials />
       <Faq />
       <GrowYourBusiness />
     </main>
