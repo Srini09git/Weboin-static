@@ -25,7 +25,7 @@ const NavBarMain = () => {
       id: 1,
       title: "Digital Marketing",
       imageSrc: "/NavIcons/Digitalmarketing.png",
-      link: "/Section/Digitalmarket",
+      link: "/Section/1",
       dataCategory: "",
       dataAction: "click-navigation",
       dataLabel: "most-popular-flex"
@@ -34,7 +34,7 @@ const NavBarMain = () => {
       id: 2,
       title: "Web Development",
       imageSrc: "/NavIcons/Web development.png",
-      link: "/Section/Webdev",
+      link: "/Section/2",
       dataCategory: "",
       dataAction: "click-navigation",
       dataLabel: "most-popular-gradia"
@@ -43,7 +43,7 @@ const NavBarMain = () => {
       id: 3,
       title: "E-commerce Website",
       imageSrc: "/NavIcons/E-commerce website dev.png",
-      link: "/Section/ECommerce",
+      link: "/Section/3",
       dataCategory: "",
       dataAction: "click-navigation",
       dataLabel: "most-popular-zanrly"
@@ -52,7 +52,7 @@ const NavBarMain = () => {
       id: 4,
       title: "Social Media Marketing",
       imageSrc: "/NavIcons/Socialmedia marketing.png",
-      link: "/Section/Social",
+      link: "/Section/4",
       dataCategory: "",
       dataAction: "click-navigation",
       dataLabel: "most-popular-vendia"
@@ -61,7 +61,7 @@ const NavBarMain = () => {
       id: 5,
       title: "Lead Generation Service",
       imageSrc: "/NavIcons/lead generation serivce.png",
-      link: "/Section/LeadGenServices",
+      link: "/Section/5",
       dataCategory: "",
       dataAction: "click-navigation",
       dataLabel: "most-popular-saturn"
@@ -70,7 +70,7 @@ const NavBarMain = () => {
       id: 6,
       title: "Mobile App Development",
       imageSrc: "/NavIcons/Mobile app dev.png",
-      link: "/Section/MobileApp",
+      link: "/Section/6",
       dataCategory: "",
       dataAction: "click-navigation",
       dataLabel: "most-popular-flaro"
@@ -79,7 +79,7 @@ const NavBarMain = () => {
       id: 7,
       title: "Mobile App Promotion",
       imageSrc: "/NavIcons/Mobile app promotion.png",
-      link: "/Section/MobileAppPromo",
+      link: "/Section/7",
       dataCategory: "",
       dataAction: "click-navigation",
       dataLabel: "most-popular-gradia"
@@ -88,7 +88,7 @@ const NavBarMain = () => {
       id: 8,
       title: "Content Management Systems",
       imageSrc: "/NavIcons/content management system.png",
-      link: "/Section/CMS",
+      link: "/Section/8",
       dataCategory: "",
       dataAction: "click-navigation",
       dataLabel: "most-popular-basko"
@@ -97,7 +97,7 @@ const NavBarMain = () => {
       id: 9,
       title: "SEO",
       imageSrc: "/NavIcons/Seo.png",
-      link: "/Section/Seo",
+      link: "/Section/9",
       dataCategory: "",
       dataAction: "click-navigation",
       dataLabel: "most-popular-artemis"
