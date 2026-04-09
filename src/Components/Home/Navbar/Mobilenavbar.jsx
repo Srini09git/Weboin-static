@@ -40,15 +40,15 @@ const Mobilenavbar = ({ toggleNavbar }) => {
               isOpen={sidenavbardropdown}
               toggleDropdown={sideNavdropdownshow}
               dropdownItems={[
-                { href: '/Section/Digitalmarket/1', label: 'Digital Market', Icon: { LogoImage } },
-                { href: '/Section/Digitalmarket/2', label: 'Web Development' },
-                { href: '/Section/Digitalmarket/3', label: 'E-commerce Website Development' },
-                { href: '/Section/Digitalmarket/4', label: 'Social Media Marketing' },
-                { href: '/Section/Digitalmarket/5', label: 'Lead Generation Service' },
-                { href: '/Section/Digitalmarket/6', label: 'Mobile App Development' },
-                { href: '/Section/Digitalmarket/7', label: 'Mobile App Promotion' },
-                { href: '/Section/Digitalmarket/8', label: 'Content Management Systems' },
-                { href: '/Section/Digitalmarket/9', label: 'SEO' }
+                { href: '/Section/1', label: 'Digital Market', Icon: { LogoImage } },
+                { href: '/Section/2', label: 'Web Development' },
+                { href: '/Section/3', label: 'E-commerce Website Development' },
+                { href: '/Section/4', label: 'Social Media Marketing' },
+                { href: '/Section/5', label: 'Lead Generation Service' },
+                { href: '/Section/6', label: 'Mobile App Development' },
+                { href: '/Section/7', label: 'Mobile App Promotion' },
+                { href: '/Section/8', label: 'Content Management Systems' },
+                { href: '/Section/9', label: 'SEO' }
               ]}
             />
             <NavItem href="/Portfolio" label="Portfolio" />
