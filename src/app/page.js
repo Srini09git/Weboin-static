@@ -40,8 +40,7 @@ export default function Home() {
 
 
       <Herotextthambi />
-      <Testimonial/>
-      <HomeBlog />
+     
       {/* <Herotext /> */}
       <Macbook />
       <OurSponsors />
@@ -58,6 +57,8 @@ export default function Home() {
       <ServiceX />
       {/* <Extray/> */}
       <Faq />
+       <Testimonial/>
+      <HomeBlog />
       <GrowYourBusiness />
     </main>
   )
